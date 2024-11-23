@@ -1,0 +1,9 @@
+@charset "UTF-8";
+.title {
+    background-color: rgb(255, 0, 0);
+    color: rgb(0, 255, 128);
+}
+
+.record {
+    background-color: red;
+}
